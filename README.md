@@ -36,7 +36,7 @@ Se define un flujo de trabajo que combina la recuperación de información relev
 
 El usuario puede hacer preguntas, y el sistema recupera información relevante de la base de datos vectorial para generar respuestas precisas.
 
-## Arquitectura
+## Diagrama 
 
 ![image](https://github.com/user-attachments/assets/24188afc-c4db-49a9-9142-e262aba3844d)
 
