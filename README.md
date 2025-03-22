@@ -36,6 +36,10 @@ Se define un flujo de trabajo que combina la recuperación de información relev
 
 El usuario puede hacer preguntas, y el sistema recupera información relevante de la base de datos vectorial para generar respuestas precisas.
 
+## Arquitectura
+
+![image](https://github.com/user-attachments/assets/24188afc-c4db-49a9-9142-e262aba3844d)
+
 ## Instalacion y Ejecucion
 
 Toma el archivo .ipynb y usalo para cargar el notebook en colab.
@@ -61,4 +65,13 @@ Ejecuta el resto de celdas del notebook para que el programa funcione correctame
 
 ## Ejemplo en accion
 
+![image](https://github.com/user-attachments/assets/ee536f32-caec-47ca-9f0d-63d0dbd54e2b)
+
+
 ![image](https://github.com/user-attachments/assets/8515f2d8-3ecf-4597-85d5-e002fd8a9304)
+
+![image](https://github.com/user-attachments/assets/3c9ef20e-2615-4128-88a4-dad679d90eb9)
+
+![image](https://github.com/user-attachments/assets/800f0a77-2595-424e-8a82-3162c796eaac)
+
+
